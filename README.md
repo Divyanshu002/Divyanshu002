@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **Project Automation**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **gdivyanshu04@gmail.com**
